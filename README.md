@@ -10,5 +10,5 @@
   Run `npm run dev` to start the development server.
 
 
-  Schedule personalized medication reminders by time and day to help manage multiple medications and maintain health consistently. Includes a calendar feature to visualize progress and rewards for consistently logging your medication.
+Schedule personalized medication reminders by time and day to help manage multiple medications and maintain health consistently. Includes a calendar feature to visualize progress and rewards for consistently logging your medication.
   
