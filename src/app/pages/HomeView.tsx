@@ -59,16 +59,13 @@ export function HomeView({
   return (
     <div className="pb-20">
       {/* Header */}
-      <div className="mb-8 flex items-center justify-center gap-3">
-        <Pill className="size-9 text-amber-600 flex-shrink-0" />
-        <div className="text-center">
-          <h1 className="text-4xl font-bold mb-2 bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">
-            Medication Journey
-          </h1>
-          <p className="text-gray-700">
-            Take your meds, earn rewards, feel amazing! ✨
-          </p>
-        </div>
+      <div className="mb-8 text-center">
+        <h1 className="text-5xl font-extrabold mb-2 bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">
+          MyMeds
+        </h1>
+        <p className="text-gray-700">
+          Take your meds, earn rewards, feel amazing! ✨
+        </p>
       </div>
 
       {/* Stats Display */}
